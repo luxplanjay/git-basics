@@ -20,9 +20,15 @@
 ## Команда git commit
 
 Создает коммит, точку сохранения, запись в истории изменений. В коммит входят все
-зафиксированные на текущий момент изменения отслеживаемых файлов. 
+зафиксированные на текущий момент изменения отслеживаемых файлов.
 
 ```shell
 git commit -m “Мой комментарий к коммиту”
 git commit —amend -m “Мой измененный комментарий к последнему коммиту”
 ```
+
+## Дополнительные материалы
+
+- [Основы Git](https://github.com/progit/progit/blob/master/ru/02-git-basics/01-chapter2.markdown)
+- [Книга от Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Git — инструмент для совместной работы](https://youtu.be/yDSs80lu3ak)
