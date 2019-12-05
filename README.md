@@ -27,8 +27,8 @@
 Установка имени и электронной почты.
 
 ```shell
-git config —global user.name “Ваше имя”
-git config —global user.email “Ваша почта”
+git config —global user.name "Ваше имя"
+git config —global user.email "Ваша почта"
 ```
 
 Параметры окончаний строк для пользователей Mac/Unix.
